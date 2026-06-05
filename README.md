@@ -1,6 +1,6 @@
 # To-Do List Application
 
-A clean, lightweight, terminal-based To-Do List utility built using Python. This application allows you to create, track, update, and delete tasks seamlessly, using a local JSON file to ensure your progress is saved automatically between sessions.
+A clean, lightweight, terminal-based To-Do List utility built using Python. This application allows you to create, track, update, and delete tasks seamlessly, using a local JSON file to ensure your progress is saved automatically between sessions. Live deployed at :https://agent-6a21e448bc147--jocular-bienenstitch-f63d5c.netlify.app/
 
 ## 🚀 Features
 
