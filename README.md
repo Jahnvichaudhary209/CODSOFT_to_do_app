@@ -28,3 +28,7 @@ A clean, lightweight, terminal-based To-Do List utility built using Python. This
    Navigate into the directory where you saved the file:
    ```bash
    cd path/to/your/todo-list-folder
+   Run locally:
+   
+bashpip install -r requirements.txt
+python app.py
